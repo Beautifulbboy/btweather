@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="qbapplication_final" />
+    <version value="1" />
+    <list>
+        <mapping class="com.example.qbapplication_final.db.Province" />
+        <mapping class="com.example.qbapplication_final.db.City" />
+        <mapping class="com.example.qbapplication_final.db.County" />
+    </list>
+</litepal>
