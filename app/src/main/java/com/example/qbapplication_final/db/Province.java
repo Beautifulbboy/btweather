@@ -1,5 +1,7 @@
 package com.example.qbapplication_final.db;
 
+import org.litepal.crud.DataSupport;
+
 public class Province extends DataSupport {
     private int id;
     private String provinceName;
